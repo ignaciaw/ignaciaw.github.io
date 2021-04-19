@@ -53,21 +53,25 @@
     </item>
     
     <item>
-      <title>Encargo 3</title>
-      <link>https://ignaciaw.github.io/docs/encargo-3/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://ignaciaw.github.io/docs/encargo-3/</guid>
-      <description>Entrevista </description>
-    </item>
-    
-    <item>
       <title>Ejemplos Markdown</title>
       <link>https://ignaciaw.github.io/docs/markdown/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://ignaciaw.github.io/docs/markdown/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Encargo 3</title>
+      <link>https://ignaciaw.github.io/docs/encargo-3/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://ignaciaw.github.io/docs/encargo-3/</guid>
+      <description>En 1
+      En 10
+      En 11
+      En 12
+      En 13</description>
     </item>
     
   </channel>
