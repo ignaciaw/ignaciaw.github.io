@@ -53,15 +53,6 @@
     </item>
     
     <item>
-      <title>Bjarke Ingels</title>
-      <link>https://ignaciaw.github.io/docs/encargo-4/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://ignaciaw.github.io/docs/encargo-4/</guid>
-      <description>Bjarke Ingels Ingels es un arquitecto quien el año 2005 crea el grupo BIG, grupo el cual toma ideas de la arquitectura tradicional y vanguardista. Destaca además, por sus composiciones geométricas y por tener siempre presente el impacto medioambiental que generan sus proyectos.</description>
-    </item>
-    
-    <item>
       <title>Ejemplos Markdown</title>
       <link>https://ignaciaw.github.io/docs/markdown/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
@@ -92,6 +83,15 @@
       <description>Molde Fusion    Molde Físico    Molde1
       Molde2
                                  Tableware Preparación    4th</description>
+    </item>
+    
+    <item>
+      <title>Bjarke Ingels</title>
+      <link>https://ignaciaw.github.io/docs/encargo-4/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://ignaciaw.github.io/docs/encargo-4/</guid>
+      <description>Bjarke Ingels Ingels es un arquitecto quien el año 2005 crea el grupo BIG, grupo el cual toma ideas de la arquitectura tradicional y vanguardista. Destaca además, por sus composiciones geométricas y por tener siempre presente el impacto medioambiental que generan sus proyectos.</description>
     </item>
     
   </channel>
